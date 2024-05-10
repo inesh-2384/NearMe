@@ -137,12 +137,13 @@ collector ground at kanchipuram
 
 
 ## OUTPUT
-![Alt text](<Screenshot (11).png>)
-![Alt text](<Screenshot (12).png>)
-![Alt text](<Screenshot (15).png>)
-![Alt text](<Screenshot (16).png>)
-![Alt text](<Screenshot (17).png>)
-![Alt text](<Screenshot (18).png>)
+![Screenshot (11)](https://github.com/inesh-2384/NearMe/assets/146412203/4f17f526-252c-4f68-9285-df89d3887350)
+![Screenshot (12)](https://github.com/inesh-2384/NearMe/assets/146412203/1f4824e7-fee8-4b4a-84c8-1c4a15647468)
+![Screenshot (15)](https://github.com/inesh-2384/NearMe/assets/146412203/4a069c19-5135-4f93-a205-bd41ac83ed4b)
+![Screenshot (16)](https://github.com/inesh-2384/NearMe/assets/146412203/aca33da7-b403-4fe1-8497-3411dd627a74)
+![Screenshot (17)](https://github.com/inesh-2384/NearMe/assets/146412203/a488d7ec-c83c-420b-9377-24e2d9af93e7)
+![Screenshot (17) (1)](https://github.com/inesh-2384/NearMe/assets/146412203/5f59236f-7b51-4f42-a368-79e121b507fe)
+![Screenshot (18)](https://github.com/inesh-2384/NearMe/assets/146412203/fb36b34a-7db5-4e9e-b1ad-a6bf5b7a5bc2)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
